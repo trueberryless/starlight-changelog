@@ -21,4 +21,4 @@ The search index is generated at build time, so search is only available after r
 
 Licensed under the MIT License, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/starlight-changelog/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/starlight-changelog/blob/main/LICENSE) for more information.
