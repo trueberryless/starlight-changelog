@@ -39,7 +39,7 @@
   "homepage": "https://starlight-changelog.netlify.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trueberryless-org/starlight-changelog.git"
+    "url": "git+https://github.com/trueberryless/starlight-changelog.git"
   },
-  "bugs": "https://github.com/trueberryless-org/starlight-changelog/issues"
+  "bugs": "https://github.com/trueberryless/starlight-changelog/issues"
 }
